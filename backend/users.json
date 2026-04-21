@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ishika",
+    "email": "ishika@gmail.com",
+    "password": "123456"
+  },
+  {
+    "name": "ishii",
+    "email": "ishii@gmail.com",
+    "password": "ishii"
+  },
+  {
+    "name": "eshika",
+    "email": "eshika@gmail.com",
+    "password": "eshika"
+  },
+  {
+    "name": "riya",
+    "email": "riya@gmail.com",
+    "password": "riya"
+  },
+  {
+    "name": "meera",
+    "email": "meera@gmail.com",
+    "password": "meera"
+  },
+  {
+    "name": "ww",
+    "email": "ww@gmail.com",
+    "password": "ww"
+  },
+  {
+    "name": "mm",
+    "email": "mm@gmail.com",
+    "password": "mm"
+  }
+]
