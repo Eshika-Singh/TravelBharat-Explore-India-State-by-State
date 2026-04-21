@@ -10,11 +10,6 @@
     "password": "ishii"
   },
   {
-    "name": "eshika",
-    "email": "eshika@gmail.com",
-    "password": "eshika"
-  },
-  {
     "name": "riya",
     "email": "riya@gmail.com",
     "password": "riya"
@@ -33,5 +28,10 @@
     "name": "mm",
     "email": "mm@gmail.com",
     "password": "mm"
+  },
+  {
+    "name": "kritu",
+    "email": "kritu@gmail.com",
+    "password": "kritu"
   }
 ]
