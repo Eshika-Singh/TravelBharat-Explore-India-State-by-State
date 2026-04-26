@@ -7,7 +7,8 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-       "https://travel-bharat-explore-india-state-b-omega.vercel.app"
+       "https://travel-bharat-explore-india-state-b-omega.vercel.app",
+       "http://localhost:5173"
     ],
     allow_credentials=True,
     allow_methods=["*"],
