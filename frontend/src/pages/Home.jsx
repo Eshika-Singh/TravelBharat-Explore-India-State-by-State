@@ -1,6 +1,6 @@
 import HeroSection from "../components/HeroSection";
 import SectionTitle from "../components/SectionTitle";
-import StateCard from "../components/StateCard";
+import StateCard from "../components/Statecard";
 import states from "../data/states";
 
 function Home() {
